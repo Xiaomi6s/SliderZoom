@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30D9D82F-376E-4A5D-BCAF-BA9D2903E3AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlideZoomMenuDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>489A332FA9B2F104A0AD9E42E49E2532F8CE5CF3</key>
+		<string>https://github.com/Xiaomi6s/SliderZoom.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlideZoomMenuDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>489A332FA9B2F104A0AD9E42E49E2532F8CE5CF3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Xiaomi6s/SliderZoom.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>489A332FA9B2F104A0AD9E42E49E2532F8CE5CF3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>489A332FA9B2F104A0AD9E42E49E2532F8CE5CF3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SliderZoom</string>
+		</dict>
+	</array>
+</dict>
+</plist>
