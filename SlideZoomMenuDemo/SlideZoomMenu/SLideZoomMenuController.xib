@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14D131" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SLideZoomMenuController">
+            <connections>
+                <outlet property="bgImageView" destination="eJB-Ms-ctz" id="Bvt-Y6-2tV"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg_mm" translatesAutoresizingMaskIntoConstraints="NO" id="eJB-Ms-ctz">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                    <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="eJB-Ms-ctz" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="3jM-En-jXn"/>
+                <constraint firstItem="eJB-Ms-ctz" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Odt-Ht-k9D"/>
+                <constraint firstAttribute="trailing" secondItem="eJB-Ms-ctz" secondAttribute="trailing" id="TYf-2v-krx"/>
+                <constraint firstAttribute="bottom" secondItem="eJB-Ms-ctz" secondAttribute="bottom" id="gRi-VS-4Ld"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="bg_mm" width="512" height="335"/>
+    </resources>
+</document>
